@@ -1,4 +1,5 @@
 PARI scripts for the article ``Triples of singular moduli with rational product''
+Int. J. Number Theory 16 (2020), no. 10, 2149–2166.
 Guy Fowler
 19 June 2020
 /////////////////////
